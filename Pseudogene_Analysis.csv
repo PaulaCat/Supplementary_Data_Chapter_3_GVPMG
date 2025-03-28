@@ -1,0 +1,39 @@
+ID,Time,Location_Long,Location_Medium,Location,Taxonomy,CDS,Pseudogenes,Pseudo/CDS,Total Length,Pseudo/Length,dfast url
+A_GCA_009992775.1,,Crystal Geyser,Crystal Geyser,Other Locations,Atribacteria,1180,148,0.125423729,1'427'048,1.04E-04,https://dfast.ddbj.nig.ac.jp/analysis/annotation/65f2c5ca-80a1-4cc3-a788-458321d66585
+A_GCA_02789755.1,,Crystal Geyser,Crystal Geyser,Other Locations,Atribacteria,1377,177,0.128540305,1'612'219,1.10E-04,https://dfast.ddbj.nig.ac.jp/analysis/annotation/9cca5b82-c5f7-4c41-b1cb-a41f828b29fe
+A_GCA_002784285.1,,Crystal Geyser,Crystal Geyser,Other Locations,Atribacteria,1695,245,0.144542773,2'031'965,1.21E-04,https://dfast.ddbj.nig.ac.jp/analysis/annotation/12506b49-bcc8-44e8-b889-1a876338c217
+A_GCA_002782675.1,,Crystal Geyser,Crystal Geyser,Other Locations,Atribacteria,1424,171,0.12008427,1'671'248,1.02E-04,https://dfast.ddbj.nig.ac.jp/analysis/annotation/a2c2ae5f-b790-49ba-8e6d-4759e0dabcce
+A_GCA_002781685.1,,Crystal Geyser,Crystal Geyser,Other Locations,Atribacteria,1464,209,0.142759563,1'690'015,1.24E-04,https://dfast.ddbj.nig.ac.jp/analysis/annotation/aa5644ab-9045-4bb0-8de4-227e93741bb8
+A_GCA_002779155.1,,Crystal Geyser,Crystal Geyser,Other Locations,Atribacteria,1202,152,0.126455907,1'417'056,1.07E-04,https://dfast.ddbj.nig.ac.jp/analysis/annotation/a752988b-d850-438c-8f5b-e0aeca2aec79
+A_GCA_001873345.1,,Crystal Geyser,Crystal Geyser,Other Locations,Atribacteria,1423,180,0.126493324,1'594'034,1.13E-04,https://dfast.ddbj.nig.ac.jp/analysis/annotation/e73eb7c7-9e05-489c-8e88-0803b1629015
+A40,221.8,Lake Cadagno,Lake Cadagno,Lake Cadagno,Atribacteria,1132,166,0.14664311,1'233'019,1.35E-04,https://dfast.ddbj.nig.ac.jp/analysis/annotation/ec1050ad-250f-4590-9158-f999f58c3ee4
+A153,1026.6,Lake Cadagno,Lake Cadagno,Lake Cadagno,Atribacteria,1623,253,0.155884165,1'705'276,1.48E-04,https://dfast.ddbj.nig.ac.jp/analysis/annotation/c59c8336-3bbe-45dd-a27b-1890fbd511d6
+A213,1456.3,Lake Cadagno,Lake Cadagno,Lake Cadagno,Atribacteria,1786,246,0.137737962,1'887'764,1.30E-04,https://dfast.ddbj.nig.ac.jp/analysis/annotation/5b6b49c5-cb9d-47f3-9c33-510dede2380d
+A233,1586.7,Lake Cadagno,Lake Cadagno,Lake Cadagno,Atribacteria,1781,283,0.158899495,1'859'918,1.52E-04,https://dfast.ddbj.nig.ac.jp/analysis/annotation/36ea7b47-84b5-42ec-a46d-eef672c3bf55
+A283,1741.7,Lake Cadagno,Lake Cadagno,Lake Cadagno,Atribacteria,1706,326,0.19109027,1'753'062,1.86E-04,https://dfast.ddbj.nig.ac.jp/analysis/annotation/c5a27986-ce16-4a68-8533-10d918d7fcf8
+B36_153,1026.6,Lake Cadagno,Lake Cadagno,Lake Cadagno,Ca. Bathyarchaeia Cluster 2,2253,233,0.103417665,2'040'342,1.14E-04,https://dfast.ddbj.nig.ac.jp/analysis/annotation/333e8bf9-426a-4566-a41d-8a47a5d0820d
+B36_187,1270.1,Lake Cadagno,Lake Cadagno,Lake Cadagno,Ca. Bathyarchaeia Cluster 2,2681,278,0.103692652,2'449'606,1.13E-04,https://dfast.ddbj.nig.ac.jp/analysis/annotation/cd9a090c-494f-4aaa-9a31-b62307127a7e
+B36_213,1456.3,Lake Cadagno,Lake Cadagno,Lake Cadagno,Ca. Bathyarchaeia Cluster 2,2050,223,0.108780488,1'913'745,1.17E-04,https://dfast.ddbj.nig.ac.jp/analysis/annotation/a059cd92-c781-45cf-8edd-9856c80d76ea
+B36_233,1586.7,Lake Cadagno,Lake Cadagno,Lake Cadagno,Ca. Bathyarchaeia Cluster 2,2341,241,0.102947458,2'109'942,1.14E-04,https://dfast.ddbj.nig.ac.jp/analysis/annotation/2a4beebc-e53b-416e-9286-44e633310a84
+B36_283,1741.7,Lake Cadagno,Lake Cadagno,Lake Cadagno,Ca. Bathyarchaeia Cluster 2,1864,266,0.142703863,1'674'895,1.59E-04,https://dfast.ddbj.nig.ac.jp/analysis/annotation/9d9e714e-6a85-4d3b-bd3e-12426944f34d
+B36_582,4179.5,Lake Cadagno,Lake Cadagno,Lake Cadagno,Ca. Bathyarchaeia Cluster 2,2121,244,0.115040075,1'961'337,1.24E-04,https://dfast.ddbj.nig.ac.jp/analysis/annotation/8be4af2e-1530-4691-a3d2-13ff2fd4dea9
+B36_693,7019.8,Lake Cadagno,Lake Cadagno,Lake Cadagno,Ca. Bathyarchaeia Cluster 2,2219,240,0.108156827,2'044'147,1.17E-04,https://dfast.ddbj.nig.ac.jp/analysis/annotation/1b3e0e22-6c20-405c-b3ea-fde8e306a739
+B36_738,8268.6,Lake Cadagno,Lake Cadagno,Lake Cadagno,Ca. Bathyarchaeia Cluster 2,2273,245,0.107787066,2'099'601,1.17E-04,https://dfast.ddbj.nig.ac.jp/analysis/annotation/2a4beebc-e53b-416e-9286-44e633310a84
+D_GCA_002781825.1,,Crystal Geyser,Crystal Geyser,Other Locations,Dehalococcoidia,885,172,0.194350282,1'022'715,1.68E-04,https://dfast.ddbj.nig.ac.jp/analysis/annotation/3aeaf0d3-1942-4e26-b0f2-e8d3310633eb
+D_GCA_001872925.1,,Crystal Geyser,Crystal Geyser,Other Locations,Dehalococcoidia,1116,157,0.140681004,1'227'779,1.28E-04,https://dfast.ddbj.nig.ac.jp/analysis/annotation/538bca1d-94aa-4c30-a269-3305d1f60cab
+D_213,1456.3,Lake Cadagno,Lake Cadagno,Lake Cadagno,Dehalococcoidia,1426,177,0.124123422,1'524'906,1.16E-04,https://dfast.ddbj.nig.ac.jp/analysis/annotation/f154661e-7bc5-4d54-8122-cedabae3fa0e
+D_233,1586.7,Lake Cadagno,Lake Cadagno,Lake Cadagno,Dehalococcoidia,1343,149,0.110945644,1'421'798,1.05E-04,https://dfast.ddbj.nig.ac.jp/analysis/annotation/973f1219-5145-4969-88eb-9ab7ade35c08
+D_283,1741.7,Lake Cadagno,Lake Cadagno,Lake Cadagno,Dehalococcoidia,1339,142,0.106049291,1'429'511,9.93E-05,https://dfast.ddbj.nig.ac.jp/analysis/annotation/9958245e-66c5-4b5e-a7b9-8167182feae4
+B41_GCA_022865455.1,,"Polar Fox Lagoon (sediment, 3m corer)",Polar Fox Lagoon,Other Locations,Ca. Bathyarchaeia Cluster 1,2003,257,0.128307539,2'014'762,1.28E-04,https://dfast.ddbj.nig.ac.jp/analysis/annotation/723a4b6a-f9ce-4168-9bd7-7a544e48ad9e
+B41_187,1270.1,Lake Cadagno,Lake Cadagno,Lake Cadagno,Ca. Bathyarchaeia Cluster 1,1510,178,0.117880795,1'365'214,1.30E-04,https://dfast.ddbj.nig.ac.jp/analysis/annotation/194416c4-2911-49a0-baeb-b3db21f7664c
+B41_213,1456.3,Lake Cadagno,Lake Cadagno,Lake Cadagno,Ca. Bathyarchaeia Cluster 1,1417,164,0.115737474,1'268'345,1.29E-04,https://dfast.ddbj.nig.ac.jp/analysis/annotation/2e2011e4-7dfc-4201-a95b-e4f88304e8bd
+B41_233,1586.7,Lake Cadagno,Lake Cadagno,Lake Cadagno,Ca. Bathyarchaeia Cluster 1,1494,185,0.123828648,1'351'181,1.37E-04,https://dfast.ddbj.nig.ac.jp/analysis/annotation/6555387f-b94b-4860-ab78-b5ac784bda20
+B41_283,1741.7,Lake Cadagno,Lake Cadagno,Lake Cadagno,Ca. Bathyarchaeia Cluster 1,1431,164,0.114605171,1'320'096,1.24E-04,https://dfast.ddbj.nig.ac.jp/analysis/annotation/31333fb3-e4b9-4106-9d45-be901d301ec5
+B41_582,4179.5,Lake Cadagno,Lake Cadagno,Lake Cadagno,Ca. Bathyarchaeia Cluster 1,1881,217,0.115364168,1'711'481,1.27E-04,https://dfast.ddbj.nig.ac.jp/analysis/annotation/3624fbe4-653f-46ad-9196-8fefbcd8adec
+B_693,7019.8,Lake Cadagno,Lake Cadagno,Lake Cadagno,Ca. Bathyarchaeia Cluster 1,1188,125,0.105218855,1'086'461,1.15E-04,https://dfast.ddbj.nig.ac.jp/analysis/annotation/6fd1e2de-7a84-4ad5-be36-967d7ab74a81
+P_GCA_001303885.1,,"White Oak River Estuary, Sulfate-methane transisition zone estuary sediments 16-26 cm",White Oak River Estuary,Other Locations,Planctomycetes,1738,389,0.223820483,2'299'355,1.69E-04,https://dfast.ddbj.nig.ac.jp/analysis/annotation/08e5e962-3db3-4821-b694-e7867cca1685
+P_153,1026.6,Lake Cadagno,Lake Cadagno,Lake Cadagno,Planctomycetes,3045,517,0.169786535,3'765'980,1.37E-04,https://dfast.ddbj.nig.ac.jp/analysis/annotation/ecd52e50-4725-4c6d-8427-a0baae4a340f
+P_187,1270.1,Lake Cadagno,Lake Cadagno,Lake Cadagno,Planctomycetes,3199,509,0.159112223,3'861'501,1.32E-04,https://dfast.ddbj.nig.ac.jp/analysis/annotation/f1aa070f-d4d0-454a-acea-6fe931bcbbc9
+P_213,1456.3,Lake Cadagno,Lake Cadagno,Lake Cadagno,Planctomycetes,3123,505,0.16170349,3'817'573,1.32E-04,https://dfast.ddbj.nig.ac.jp/analysis/annotation/3988879e-75fe-4932-9db2-443cca12a34c
+P_233,1586.7,Lake Cadagno,Lake Cadagno,Lake Cadagno,Planctomycetes,3190,509,0.159561129,3'861'976,1.32E-04,https://dfast.ddbj.nig.ac.jp/analysis/annotation/dfc90e0a-b737-4ef6-b3d1-34d3a2c7e5ae
+P_283,1741.7,Lake Cadagno,Lake Cadagno,Lake Cadagno,Planctomycetes,3147,527,0.167461074,3'850'608,1.37E-04,https://dfast.ddbj.nig.ac.jp/analysis/annotation/986e7922-49ee-4da8-ba57-bdc1263b52a5
